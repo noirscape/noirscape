@@ -7,7 +7,6 @@ You probably know me from my pinned projects. I write and publish software, and 
 If you want to reach me, check some of my links below:
 
 * Discord: noirscape#6666
-* Twitter: [noirscape_](https://twitter.com/noirscape_)
 
 Opinions expressed in my projects are mine, not my employers.
 
